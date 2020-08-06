@@ -1,3 +1,2 @@
 # tech
-$pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
-?>
+techbaseインターンシップで作成しました。ご自由にお使いください。
